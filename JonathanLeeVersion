@@ -1,3 +1,4 @@
+#Adapted version 
 #WINDOWS
 refresh_pattern -i windowsupdate.com/.*\.(cab|exe|dll|ms[i|u|f|p]|[ap]sf|wm[v|a]|dat|zip|psf) 43200 80% 129600 reload-into-ims
 refresh_pattern -i microsoft.com/.*\.(cab|exe|dll|ms[i|u|f|p]|[ap]sf|wm[v|a]|dat|zip|psf) 43200 80% 129600 reload-into-ims
